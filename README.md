@@ -2,6 +2,9 @@
 
 Simply called "KYS", is a dynamic website where you can check how fast your are typing. Of course, there are many speed calculating websites, which has a timer that stop after a while restriciting you to type once the timer ends. But here, you can take your own time to type the given random quote and you can get to know the exact time (in seconds) you are taking to type it.
 
+1. If you are typing correctly, the given quote will change to green.
+2. If you are wrong, it'll change to red.
+
 Language - [Javascript](https://www.javascript.com/)
 
 ## Website
