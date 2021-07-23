@@ -5,7 +5,7 @@ Simply called "KYS", is a dynamic website where you can check how fast your are 
 1. If you are typing correctly, the given quote will change to green.
 2. If you are wrong, it'll change to red.
 
- <h3>Language - [Javascript](https://www.javascript.com/)</h3>
+ ### Language - [Javascript](https://www.javascript.com/)
 
 ### Website - [Know Your Speed](https://kysaravinth.netlify.app/)
 
