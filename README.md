@@ -7,7 +7,9 @@ Simply called "KYS", is a dynamic website where you can check how fast your are 
 
  <h3>Language - [Javascript](https://www.javascript.com/)</h3>
 
-## Website - [Know Your Speed](https://kysaravinth.netlify.app/)
+### Website - [Know Your Speed](https://kysaravinth.netlify.app/)
+
+## Result
 
 ![Screenshot (73)](https://user-images.githubusercontent.com/79074310/126797505-870e4e74-767d-4713-beb9-2fa10374f859.png)
 
