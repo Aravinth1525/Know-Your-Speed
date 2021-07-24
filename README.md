@@ -7,6 +7,8 @@ Simply called "KYS", is a dynamic website where you can check how fast your are 
 3. Case Sensitive
 
  ### Language - [Javascript](https://www.javascript.com/)
+ 
+ ### API - [Random Quotes](https://api.quotable.io/random)
 
 ### Website - [Know Your Speed](https://kysaravinth.netlify.app/)
 
