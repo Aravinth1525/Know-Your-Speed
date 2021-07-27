@@ -18,5 +18,4 @@ Simply called "KYS", is a dynamic website where you can check how fast you are t
 
 ![Screenshot from 2021-07-25 20-17-41](https://user-images.githubusercontent.com/79074310/126903372-c839945d-4b82-449f-a510-de3fe2b72e71.png)
 
-![Screenshot from 2021-07-25 20-18-40](https://user-images.githubusercontent.com/79074310/126903391-94f36221-cd21-4ce2-828e-2a0668497d8c.png)
 
