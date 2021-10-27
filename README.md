@@ -10,8 +10,6 @@ Simply called "KYS", is a dynamic website where you can check how fast you are t
  
  ### API - [Random Quotes](https://api.quotable.io/random)
 
-### Website - [Know Your Speed](https://kysaravinth.netlify.app/)
-
 ## Result
 
 ![Screenshot from 2021-07-25 20-17-15](https://user-images.githubusercontent.com/79074310/126903364-0b7a355d-7a47-4972-bf9f-9a672a1bdb11.png)
